@@ -1,2 +1,2 @@
 textblob
-sklearn
+scikit-learn
